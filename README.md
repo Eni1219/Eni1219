@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://skillicons.dev/icons?i=cs,cpp,python)
 <!--
 **Eni1219/Eni1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

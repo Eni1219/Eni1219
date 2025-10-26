@@ -14,6 +14,16 @@
   ゲームクリエイターを目指して日々研鑽を積んでいます。
 </p>
 
+
+## 🎯 Strengths
+
+- 🎮 Unityを使った2D/3Dゲーム制作
+- 👾 BitSummit2025にてゲームジャムアワード受賞
+- 🤝 チーム開発経験あり（GitHub / Perforce）
+- 📷　ストリートスナップでこの目で見たすべてを記録することが好き。現在の愛用機種「LeicaQ2」将来「M10P」に変更
+- 🗻 一人でハイキングすることも好き。たまに山頂から俯瞰することでリラックス
+
+
 **📌 Languages**  
 ![](https://skillicons.dev/icons?i=cs,cpp,python)
 

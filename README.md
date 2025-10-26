@@ -17,7 +17,7 @@
 
 ## 🎯 Strengths
 
-- 🎮 Unityを使った2D/3Dゲーム制作
+- 🎮 Unity、UE5を使った2D/3Dゲーム制作
 - 👾 BitSummit2025にてゲームジャムアワード受賞
 - 🤝 チーム開発経験あり（GitHub / Perforce）
 - 📷　この目で見たすべてを記録することが好き。Instagramに作品を載せている。現在の愛用機種「LeicaQ2」将来「M10P」に変更
